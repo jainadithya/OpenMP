@@ -1,3 +1,4 @@
+// 1000*1000 matrix multiplication
 #include <omp.h>
 #include <stdio.h>
 #include <stdlib.h>
